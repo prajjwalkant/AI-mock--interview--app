@@ -1,0 +1,1 @@
+This folder will include backend logic and database interaction using Drizzle ORM.
